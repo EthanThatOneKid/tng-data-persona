@@ -1,0 +1,7 @@
+{
+  "source_rows": 59750,
+  "data_rows": 6078,
+  "train_rows": 5319,
+  "eval_rows": 759,
+  "counterexamples": 11408
+}
