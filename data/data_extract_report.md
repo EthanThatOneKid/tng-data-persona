@@ -1,6 +1,6 @@
 # Data Persona Extract Report
 
-- Source repository: `/home/workspace/code/github.com/EthanThatOneKid/tng-computer-persona`
+- Source corpus: `/home/workspace/code/github.com/EthanThatOneKid/tng-data-persona/data/raw/dialogue.jsonl`
 - Source dialogue rows: 59750
 - Data speaker lines in source corpus: 6078
 - Extracted Data persona examples: 6078
